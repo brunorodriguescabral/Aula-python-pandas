@@ -6,8 +6,9 @@ Repositorio realizado durante as aulas do professor "Henrique Poyatos" durante o
 
 ## 👨‍💻 Tecnologias e Bibliotecas utilizadas
 
-- Python
+- Google Colab
 - Github
+- Python
 - Pandas
 - Numpy
 - Matplotlib
